@@ -1,0 +1,791 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "recursion.BubbleSort",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "recursion.pattern",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "rotateBinarySerch",
+            "request": "launch",
+            "mainClass": "recursion.rotateBinarySerch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "ReturnList_with_no_Agug",
+            "request": "launch",
+            "mainClass": "recursion.ReturnList_with_no_Agug",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "LinearSerch",
+            "request": "launch",
+            "mainClass": "recursion.LinearSerch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "CheckArrSort_or_not",
+            "request": "launch",
+            "mainClass": "recursion.CheckArrSort_or_not",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "no_of_Zeros",
+            "request": "launch",
+            "mainClass": "recursion.no_of_Zeros",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "reverseDigit",
+            "request": "launch",
+            "mainClass": "recursion.reverseDigit",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_Digit",
+            "request": "launch",
+            "mainClass": "recursion.Sum_of_Digit",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_n_no",
+            "request": "launch",
+            "mainClass": "recursion.Sum_of_n_no",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "recursion.Factorial",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "revNumberCount",
+            "request": "launch",
+            "mainClass": "recursion.revNumberCount",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Fib",
+            "request": "launch",
+            "mainClass": "navieappr.Fib",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "BinarySerch",
+            "request": "launch",
+            "mainClass": "recursion.BinarySerch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.Fibonacci",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGeneratoree",
+            "request": "launch",
+            "mainClass": "wipro_questions.PasswordGeneratoree",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeSumCalculator",
+            "request": "launch",
+            "mainClass": "wipro_questions.PrimeSumCalculator",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "trees.BinaryTree",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "ana",
+            "request": "launch",
+            "mainClass": "string.question.ana",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "string.question.anagram",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.interfaces.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Merge",
+            "request": "launch",
+            "mainClass": "sorting.Merge",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator1",
+            "request": "launch",
+            "mainClass": "wipro_questions.PasswordGenerator1",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "GeneratePIN",
+            "request": "launch",
+            "mainClass": "wipro_questions.GeneratePIN",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PINGenerator",
+            "request": "launch",
+            "mainClass": "wipro_questions.PINGenerator",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "order_agnostic_Bserch",
+            "request": "launch",
+            "mainClass": "serch.binary.order_agnostic_Bserch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "binarySerch",
+            "request": "launch",
+            "mainClass": "serch.binary.binarySerch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "TransformCodes",
+            "request": "launch",
+            "mainClass": "wipro_questions.TransformCodes",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "UseridGenerator",
+            "request": "launch",
+            "mainClass": "wipro_questions.UseridGenerator",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "wipro_questions.Solution",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "find_t_value",
+            "request": "launch",
+            "mainClass": "wipro_questions.find_t_value",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "SerchIn2Darray",
+            "request": "launch",
+            "mainClass": "serch.SerchIn2Darray",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "minNo",
+            "request": "launch",
+            "mainClass": "serch.minNo",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Ls_inStrig",
+            "request": "launch",
+            "mainClass": "serch.Ls_inStrig",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "serch.linearSearch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "wipro_questions.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "lineraSerch",
+            "request": "launch",
+            "mainClass": "wipro_questions.lineraSerch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "linear",
+            "request": "launch",
+            "mainClass": "serch.linear",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "FirstRepeatedNumber",
+            "request": "launch",
+            "mainClass": "wipro_questions.FirstRepeatedNumber",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Serch",
+            "request": "launch",
+            "mainClass": "serching.Linear_Serch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin_Small_LARGE",
+            "request": "launch",
+            "mainClass": "pin_Small_LARGE",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin_MAXMIN",
+            "request": "launch",
+            "mainClass": "pin_MAXMIN",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin_Largest",
+            "request": "launch",
+            "mainClass": "pin_Largest",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin_PrimeOdd",
+            "request": "launch",
+            "mainClass": "pin_PrimeOdd",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeSumExceptLargest",
+            "request": "launch",
+            "mainClass": "PrimeSumExceptLargest",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeIndexSum",
+            "request": "launch",
+            "mainClass": "PrimeIndexSum",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "FirstRepeatedNumber",
+            "request": "launch",
+            "mainClass": "FirstRepeatedNumber",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin2",
+            "request": "launch",
+            "mainClass": "pin2",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "pin",
+            "request": "launch",
+            "mainClass": "pin",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "KeyFinder",
+            "request": "launch",
+            "mainClass": "KeyFinder",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator1",
+            "request": "launch",
+            "mainClass": "PasswordGenerator1",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator",
+            "request": "launch",
+            "mainClass": "PasswordGenerator",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "FindPasswordStableUnstable",
+            "request": "launch",
+            "mainClass": "FindPasswordStableUnstable",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "tieraa",
+            "request": "launch",
+            "mainClass": "tieraa",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "LCS",
+            "request": "launch",
+            "mainClass": "dp.LCS",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Stringmatch",
+            "request": "launch",
+            "mainClass": "navieappr.Stringmatch",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "KosaRaju",
+            "request": "launch",
+            "mainClass": "graphs.KosaRaju",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "PrimsAlgo",
+            "request": "launch",
+            "mainClass": "graphs.PrimsAlgo",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFord",
+            "request": "launch",
+            "mainClass": "graphs.BellmanFord",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "graphs.Dijkstra",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "isDigit",
+            "request": "launch",
+            "mainClass": "graphs.question.isDigit",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "jungle2",
+            "request": "launch",
+            "mainClass": "graphs.question.jungle2",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "jungle",
+            "request": "launch",
+            "mainClass": "graphs.question.jungle",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetinDirected",
+            "request": "launch",
+            "mainClass": "graphs.CycleDetinDirected",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "graphs.CycleDetection",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "CustomgenArrayList",
+            "request": "launch",
+            "mainClass": "oops.generics.CustomgenArrayList",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "AllPthsfrmSrc_Tar",
+            "request": "launch",
+            "mainClass": "graphs.question.AllPthsfrmSrc_Tar",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "graphs.DFS",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "BFSUnConnGrah",
+            "request": "launch",
+            "mainClass": "graphs.BFSUnConnGrah",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "graphs.BFS",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "AdjListWeighted",
+            "request": "launch",
+            "mainClass": "graphs.AdjListWeighted",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "AdjList",
+            "request": "launch",
+            "mainClass": "graphs.AdjList",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "AdjMtrix",
+            "request": "launch",
+            "mainClass": "graphs.AdjMtrix",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "LngstWrdwithAllPref",
+            "request": "launch",
+            "mainClass": "LngstWrdwithAllPref",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "CountUniqSubstr",
+            "request": "launch",
+            "mainClass": "CountUniqSubstr",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "startWithProb",
+            "request": "launch",
+            "mainClass": "startWithProb",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "trie.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Mian",
+            "request": "launch",
+            "mainClass": "oops.cloning.Mian",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "MyException",
+            "request": "launch",
+            "mainClass": "oops.exceptionhandling.MyException",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "oops.exceptionhandling.demo",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.exceptionhandling.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.generics.comparing.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "SubarrrEqTo_K",
+            "request": "launch",
+            "mainClass": "hashing.SubarrrEqTo_K",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "ItineraryTickets",
+            "request": "launch",
+            "mainClass": "hashing.ItineraryTickets",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Intersection2array",
+            "request": "launch",
+            "mainClass": "hashing.Intersection2array",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Union2Arrays",
+            "request": "launch",
+            "mainClass": "hashing.Union2Arrays",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Majority",
+            "request": "launch",
+            "mainClass": "hashing.Majority",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "major",
+            "request": "launch",
+            "mainClass": "hashing.major",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "hashMapImpli",
+            "request": "launch",
+            "mainClass": "hashing.hashMapImpli",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "hashMap",
+            "request": "launch",
+            "mainClass": "hashing.hashMap",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "hasgu",
+            "request": "launch",
+            "mainClass": "hashing.hasgu",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "hashing.Hashing",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.polymrphism.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.inhertitance.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "oops.static_example.main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "oops.WrapperClass",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array_List",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.Array_List",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimension",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.MultiDimension",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Multi_ArList",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.Multi_ArList",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "arraySTructure",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.arraySTructure",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "dynamicArray",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.dynamicArray",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.input",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "meth_in_arr",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.meth_in_arr",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "string.Main",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "String_methods",
+            "request": "launch",
+            "mainClass": "string.String_methods",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "concatination",
+            "request": "launch",
+            "mainClass": "string.concatination",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "performance",
+            "request": "launch",
+            "mainClass": "string.performance",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "preety_printing",
+            "request": "launch",
+            "mainClass": "string.preety_printing",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "str_palindrome",
+            "request": "launch",
+            "mainClass": "string.question.str_palindrome",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilder",
+            "request": "launch",
+            "mainClass": "string.stringBuilder",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        }
+    ]
+}
