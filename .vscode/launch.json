@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "Mainn",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "wipro_questions.Mainn",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "selecton",
             "request": "launch",
             "mainClass": "sorting.selecton",
