@@ -1,4 +1,4 @@
-package wipro_questions;
+
 public class PrimeIndexSum {
     public static int sumOfPrimeIndexValues(int[] arr, int size) {
         int sum = 0;

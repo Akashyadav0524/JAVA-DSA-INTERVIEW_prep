@@ -1,4 +1,4 @@
-package wipro_questions;
+
 
 public class FirstRepeatedNumber {
     public static int findFirstRepeatedNumber(int[] arr, int size) {

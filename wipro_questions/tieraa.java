@@ -1,4 +1,4 @@
-package wipro_questions;
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class tieraa {

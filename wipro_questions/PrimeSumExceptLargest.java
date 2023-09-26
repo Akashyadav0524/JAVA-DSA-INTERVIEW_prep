@@ -1,4 +1,4 @@
-package wipro_questions;
+
 public class PrimeSumExceptLargest {
     public static int sumOfPrimesExceptLargest(int[] arr, int size) {
         int largestPrime = Integer.MIN_VALUE;

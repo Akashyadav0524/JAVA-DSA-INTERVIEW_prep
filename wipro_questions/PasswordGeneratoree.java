@@ -1,4 +1,4 @@
-package wipro_questions;
+
 
 import java.util.HashMap;
 import java.util.Map;

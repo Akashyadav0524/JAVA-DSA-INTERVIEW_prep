@@ -1,4 +1,4 @@
-package wipro_questions;
+
 public class pin_Small_LARGE {
     
 

@@ -1,4 +1,4 @@
-package wipro_questions;
+
 public class KeyFinder {
     public static int findKey(int input1, int input2, int input3) {
         int largestSum = 0;

@@ -1,4 +1,4 @@
-package wipro_questions;
+
 public class pin_MAXMIN {
     public static int findPin(int input1, int input2, int input3, int input4) {
         int maxDigitInput1 = findMaxDigit(input1);  // Find the maximum digit in input1

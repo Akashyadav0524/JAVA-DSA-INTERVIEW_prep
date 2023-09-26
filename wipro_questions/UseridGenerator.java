@@ -1,4 +1,4 @@
-package wipro_questions;
+
 
 public class UseridGenerator {
     public static String useridGeneration(String input1, String input2, String input3, int input4) {
