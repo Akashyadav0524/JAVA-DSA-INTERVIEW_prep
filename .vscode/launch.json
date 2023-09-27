@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "array_and_arraylist.Kadane",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "Mainn",
             "request": "launch",
             "mainClass": "Mainn",
