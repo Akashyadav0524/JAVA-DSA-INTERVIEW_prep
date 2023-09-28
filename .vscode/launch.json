@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Queues",
+            "request": "launch",
+            "mainClass": "queues.Queues",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "InBuiltExample",
+            "request": "launch",
+            "mainClass": "stacks.InBuiltExample",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "Kadane",
             "request": "launch",
             "mainClass": "array_and_arraylist.Kadane",
