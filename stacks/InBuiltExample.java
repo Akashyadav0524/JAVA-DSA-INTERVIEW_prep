@@ -3,6 +3,9 @@ package stacks;
 //Push-->insert
 //pop-->remove
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 // implememtaion of stack is diffrent then array thats why we cant say thi is an array
 // we cant acess the elemt with indeces in stacks
 // when we use stacks and ques when we need to store our answer for future 
@@ -28,6 +31,11 @@ public class InBuiltExample {
         System.out.println(stack.pop());
 
         //DEQUEUE -- you can insert & delete queue in both side
+        //faster then ll implementation nulls elemets are not allowed in it
+        //it has no capacity restriction either
+        Deque<Integer> deque =new ArrayDeque<>();
+        deque.add(45);
+        deque.addFirst(23);
       
     }
 
