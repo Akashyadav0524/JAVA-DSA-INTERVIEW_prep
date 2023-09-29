@@ -1,5 +1,5 @@
-package string.question;
-import java . util.*;
+package question;
+
 public class ana {
     public static void main(String[] args) {
         String st1="akash";

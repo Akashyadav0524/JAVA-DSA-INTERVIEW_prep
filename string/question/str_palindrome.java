@@ -1,4 +1,4 @@
-package string.question;
+package question;
 
 public class str_palindrome {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@
 
 
 
-package string.question;
+package question;
 
 import java .util.*;
 public class anagram {

@@ -1,4 +1,4 @@
-package string;
+
 
 public class preety_printing {
     public static void main(String[] args) {
