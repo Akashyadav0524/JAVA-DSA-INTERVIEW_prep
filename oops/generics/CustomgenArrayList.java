@@ -39,9 +39,9 @@ public class CustomgenArrayList<T> {
         T removed = (T)(data[--size]);
         return removed;
     }
-
+  @SuppressWarnings("unchecked")
     public T get(int index) {
-        @SuppressWarnings("unchecked")
+      
         return (T)data[index];
     }
 

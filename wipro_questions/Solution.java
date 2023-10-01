@@ -59,5 +59,6 @@ output1+=output.charAt(i);
      int input4=in.nextInt();
      userIdGeneration(input1, input2, input3, input4);
      System.out.println(output1);
+     in.close();
     }
 }

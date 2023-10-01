@@ -7,8 +7,7 @@ public class Main {
 
         // son.normal();
 
-        Parent daughter = new Daughter(28);
-        // daughter.career();
+        new Daughter(28);
 
         // Parent.hello();
 //        Parent mom = new Parent(45);

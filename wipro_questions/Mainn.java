@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+
 
 class Mainn {
     public static void main(String[] args) throws IOException {
@@ -22,7 +22,7 @@ class Runner {
                 arr[i] = Integer.parseInt(input[i]);
             }
 
-            int oddCount = 0, evenCount = 0;
+            int evenCount = 0;
             int oddIndex = -1, evenIndex = -1;
 
             // Check the evenness of each element and count odd and even elements
@@ -31,7 +31,6 @@ class Runner {
                     evenCount++;
                     evenIndex = i;
                 } else {
-                    oddCount++;
                     oddIndex = i;
                 }
             }
