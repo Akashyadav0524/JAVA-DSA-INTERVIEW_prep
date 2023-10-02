@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array_evnOddDif",
+            "request": "launch",
+            "mainClass": "accenture.array_evnOddDif",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "diffoftwono",
+            "request": "launch",
+            "mainClass": "accenture.diffoftwono",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "PrimeInRange",
             "request": "launch",
             "mainClass": "maths.PrimeInRange",
