@@ -1,5 +1,5 @@
 package accenture;
-
+//The given function has a string (str) and two characters, ch1 and ch2. Execute the function in such a way that str returns to its original string, and all the events in ch1 are replaced by ch2, and vice versa.
 
 import java.util.Scanner;
 
