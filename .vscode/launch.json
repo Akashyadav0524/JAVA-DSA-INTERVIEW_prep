@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hcf",
+            "request": "launch",
+            "mainClass": "hcf",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "camelCase",
             "request": "launch",
             "mainClass": "accenture.camelCase",

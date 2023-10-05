@@ -1,4 +1,4 @@
-package maths;
+
 //Sieve of Eratosthenes Method:
 public class PrimeInRange {
     public static void main(String[] args) {
