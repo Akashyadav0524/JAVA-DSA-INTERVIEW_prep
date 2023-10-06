@@ -28,7 +28,7 @@ public class matrix {
         for (int i = 0; i <= mat.length; i++) {
 
             if(mat[i] % 2 ==0){
-                mat[i] = even.add
+                mat[i] = even.add;
             }
             
         }
