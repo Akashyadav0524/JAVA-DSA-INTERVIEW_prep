@@ -14,6 +14,7 @@ public class ThreeCount {
         }
        }
        System.out.println(count);
+       in.close();
     }
 
     public static boolean itsContains(int n){
