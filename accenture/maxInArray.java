@@ -12,6 +12,7 @@ public class maxInArray {
             arr[i] = in.nextInt();
         }
         findmax(arr);
+        in.close();
     }
 
     public static void findmax(int[] arr){
