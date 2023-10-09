@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "greatest_Kth",
+            "request": "launch",
+            "mainClass": "accenture.greatest_Kth",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "MergeArray",
             "request": "launch",
             "mainClass": "accenture.MergeArray",
