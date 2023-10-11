@@ -10,6 +10,7 @@ public class Adam {
         n = in.nextInt();
         int result = countCharity(n);
         System.out.println(result);
+        in.close();
     }
 
     private static int countCharity(int n) {
