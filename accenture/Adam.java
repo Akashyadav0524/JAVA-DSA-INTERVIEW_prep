@@ -15,16 +15,16 @@ public class Adam {
 
     private static int countCharity(int n) {
         
-        // int flag=0;
-        // while(n!=0){
-        //     int ans = n*n;
-        //     flag+=ans;
-        //     n--;
-        //     countCharity(n);
+        int flag=0;
+        while(n!=0){
+            int ans = n*n;
+            flag+=ans;
+            n--;
+            countCharity(n);
            
-        // }
-        // return flag;
-        return n * (n + 1) * (2 * n + 1) / 6;
+        }
+        return flag;
+        // return n * (n + 1) * (2 * n + 1) / 6;
 
     }
 }
