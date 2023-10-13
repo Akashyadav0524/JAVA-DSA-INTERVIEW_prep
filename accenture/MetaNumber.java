@@ -14,7 +14,7 @@ public class MetaNumber {
     }
 
     public static int countMeta(int n){
-        if(n<=0){
+        if(n==0){
             return -1;
         }
 
