@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EqualNoOfBrackets",
+            "request": "launch",
+            "mainClass": "accenture.EqualNoOfBrackets",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "EqualNoOfBrackets",
+            "request": "launch",
+            "mainClass": "EqualNoOfBrackets",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "MetaNumber",
             "request": "launch",
             "mainClass": "accenture.MetaNumber",
