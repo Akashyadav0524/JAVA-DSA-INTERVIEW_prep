@@ -1,5 +1,6 @@
 package accenture;
-
+//Triplets given a integer m and size of arr n 
+//find no of possible triplets product which is equal to m and return the count of it
 import java.util.Arrays;
 import java.util.Scanner;
 
