@@ -44,7 +44,7 @@ public class Triplets {
                     left++;
                 }
                 else{
-                    right++;
+                    right--;
                 }
             }
         }
