@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerfectNo",
+            "request": "launch",
+            "mainClass": "accenture.PerfectNo",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "EqualNoOfBrackets",
             "request": "launch",
             "mainClass": "accenture.EqualNoOfBrackets",
