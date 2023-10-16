@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "odd_evn_withAND",
+            "request": "launch",
+            "mainClass": "odd_evn_withAND",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "rotateStringbySpace",
             "request": "launch",
             "mainClass": "accenture.rotateStringbySpace",
