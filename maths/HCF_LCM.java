@@ -3,7 +3,7 @@ import java.util.*;
 public class HCF_LCM {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int a, b;
+        int a, b,c;
         a= in.nextInt();
         b= in.nextInt();
         
