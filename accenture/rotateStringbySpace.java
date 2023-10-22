@@ -9,12 +9,13 @@ public class rotateStringbySpace
         Scanner scanner = new Scanner(System.in);
 
         // Read the input
-        int strLength = scanner.nextInt();
+        int strLength ;
+        strLength = scanner.nextInt();
         scanner.nextLine(); // Consume the newline character
         String str = scanner.nextLine();
         int k = scanner.nextInt();
         scanner.nextLine(); // Consume the newline character
-
+        scanner.close();
         // Check for special cases
         if (str.isEmpty()) {
             System.out.println("NULL");
@@ -24,6 +25,7 @@ public class rotateStringbySpace
             System.out.println(str);
             return;
         }
+        
 
         // Split the input string into words
         String[] words = str.split(" ");
@@ -33,6 +35,7 @@ public class rotateStringbySpace
 
         // Print the rotated string
         System.out.println(rotatedStr);
+       
     }
 
     public static String rotateWords(String[] words, int k) {
