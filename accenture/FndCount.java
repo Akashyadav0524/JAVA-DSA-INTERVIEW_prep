@@ -11,7 +11,7 @@ class FndCount
 	if (Math.abs (num - arr[i]) <= diff)
 	  count++;
       }
-    return count < 0 ? count : -1;
+    return count > 0 ? count : -1;
   }
   public static void main (String[]args)
   {
