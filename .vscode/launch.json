@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dp_max_min",
+            "request": "launch",
+            "mainClass": "accenture.Dp_max_min",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "ChoclatesDistribution",
             "request": "launch",
             "mainClass": "accenture.ChoclatesDistribution",
