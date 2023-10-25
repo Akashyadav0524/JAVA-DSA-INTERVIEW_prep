@@ -9,8 +9,8 @@ public class rotateStringbySpace
         Scanner scanner = new Scanner(System.in);
 
         // Read the input
-        int strLength ;
-        strLength = scanner.nextInt();
+        // int strLength ;
+    //    int  strLength = scanner.nextInt();
         scanner.nextLine(); // Consume the newline character
         String str = scanner.nextLine();
         int k = scanner.nextInt();
