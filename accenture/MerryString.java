@@ -14,6 +14,7 @@ public class MerryString {
     String str = in.nextLine();
     int ans = CntPossibility(str,n);
     System.out.println(ans);
+    in.close();
    }
 
    private static int CntPossibility(String str, int n) {
