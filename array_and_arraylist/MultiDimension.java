@@ -27,6 +27,19 @@ public class MultiDimension {
             System.out.println(Arrays.toString(arr[row]));
         }
 
+        System.out.println("After Sorting");
+        for (int row = 0; row < arr.length; row++) {
+            Arrays.sort(arr[row]);
+
+            // for(int col =0; col < arr[row].length; col++){
+            // System.out.println(arr[row][col] +" " );
+
+            // }
+
+            System.out.println(Arrays.toString(arr[row]));
+        }
+        
+
         in.close();
     }
 }

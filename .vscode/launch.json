@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Equlibrim",
+            "request": "launch",
+            "mainClass": "accenture.Equlibrim",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "lexicographical",
             "request": "launch",
             "mainClass": "accenture.lexicographical",
