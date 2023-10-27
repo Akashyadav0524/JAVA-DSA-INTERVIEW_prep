@@ -18,10 +18,10 @@ public class SortTwo_Darray {
                 arr[row][col] = in .nextInt();
             }
        }
-       System.out.println("before sorting");
+       System.out.println("before sorting\n");
        printMat(arr);
        sortMattrix(arr);
-       System.out.println("After sorting");
+       System.out.println("After sorting\n");
        printMat(arr);
        in.close();
     }
