@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveVowel",
+            "request": "launch",
+            "mainClass": "accenture.RemoveVowel",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "accenture.Palindrome",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "ParenthesisMatching",
+            "request": "launch",
+            "mainClass": "accenture.ParenthesisMatching",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "micky",
             "request": "launch",
             "mainClass": "accenture.micky",
