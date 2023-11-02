@@ -18,7 +18,7 @@ public class HCF_LCM {
     }
 
     private static int Lcm(int a, int b) {
-        int ans=a*b/recursionHCF(a, b);
+         int ans=a*b/recursionHCF(a, b);
         return ans;
     }
 
@@ -29,6 +29,7 @@ public class HCF_LCM {
         }
 
         return recursionHCF(b%a, a);
+      
         
     }
 
