@@ -1,7 +1,6 @@
 package accenture;
 
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class UperrToLower {
     public static void main(String[] args) {
@@ -11,16 +10,22 @@ public class UperrToLower {
         in.close();
     }
 
-    private static void Convert(String str) {
-        if(str.length()==0){
-            System.out.println("-1");
-        }
-        Pattern pattern = Pattern.compile("(?<=\\p{Lower})(?=\\p{Upper})|(?<=\\p{Upper})(?=\\p{Lower})");
+    private static void Convert(String s) {
+       
+        String[] words = s.split("(?=[A-Z])|(?<=[a-z])(?=[A-Z])");
 
-        String[] parts = pattern.split(str);
-        for (String s : parts) {
-            System.out.println(s);
+        for (String word : words) {
+            StringBuilder result = new StringBuilder();
+            for (char c : word.toCharArray()) {
+                if (Character.isUpperCase(c)) {
+                    result.append(Character.toLowerCase(c));
+                } else {
+                    result.append(Character.toUpperCase(c));
+                }
+            }
+            System.out.println(result.toString());
         }
+    }
 
     }
-}
+
