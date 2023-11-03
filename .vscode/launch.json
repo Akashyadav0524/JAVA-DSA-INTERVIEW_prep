@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UperrToLower",
+            "request": "launch",
+            "mainClass": "accenture.UperrToLower",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "InterchangeFromSpace",
             "request": "launch",
             "mainClass": "accenture.InterchangeFromSpace",
