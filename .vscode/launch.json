@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "divideInEqualPart",
+            "request": "launch",
+            "mainClass": "accenture.divideInEqualPart",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "MaxiumNoCandies",
             "request": "launch",
             "mainClass": "accenture.MaxiumNoCandies",
