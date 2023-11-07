@@ -1,6 +1,5 @@
 package accenture;
 
-import java.util.Scanner;
 import java.util.*;
 
 public class uniqueCharacters {
@@ -23,7 +22,14 @@ public class uniqueCharacters {
         for (int i = 0; i < ch.length; i++) {
             charSet.add(ch[i]);
         }
-
+        
+        printChar(charSet);
         return charSet.size();
+    }
+
+    private static void printChar(Set<Character> charSet) {
+        for (char c : charSet) {
+            System.out.println(c + " ");
+        }
     }
 }
