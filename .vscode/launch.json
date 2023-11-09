@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DpLongestSubSeqMatrix",
+            "request": "launch",
+            "mainClass": "accenture.DpLongestSubSeqMatrix",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "ArrayInput",
             "request": "launch",
             "mainClass": "accenture.ArrayInput",
