@@ -17,7 +17,7 @@ public class array_evnOddDif {
         int[] arr = new int[size];
 
       
-        for (int i = 0; i < size; i++) {
+        for (int i = 1; i < size-1; i++) {
             System.out.print("Element " + (i + 1) + ": ");
             arr[i] = scanner.nextInt();
         }
