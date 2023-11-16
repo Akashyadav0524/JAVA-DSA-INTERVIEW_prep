@@ -14,6 +14,7 @@ public class ClassTopper {
         }
         int ans = RemoveToppers(arr);
         System.out.println(ans);
+        sc.close();
 
     }
 
