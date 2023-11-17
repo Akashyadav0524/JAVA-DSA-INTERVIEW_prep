@@ -5,6 +5,33 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class countTheNoVotes {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n;
+        System.out.println("Enter the Number of voters");
+        n = in.nextInt();
+        int[] candi = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter the candi " + i + " ");
+            candi[i] = in.nextInt();
+        }
+
+        int[] age = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter the age " + i + " ");
+            age[i] = in.nextInt();
+        }
+
+        int ans = findElectionWinner(candi, age);
+        System.out.println(ans);
+        int ans2 = findElectionWinner2(candi, age);
+        System.out.println(ans2);
+        in.close();
+    }
+
+   
 
     public static int findElectionWinner(int[] persons, int[] voters_age) {
         if (persons.length != voters_age.length) {
@@ -36,27 +63,37 @@ public class countTheNoVotes {
         return winner; // Return the winner's person number.
     }
 
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int n;
-        System.out.println("Enter the Number of voters");
-        n = in.nextInt();
-        int[] candi = new int[n];
 
-        for (int i = 0; i < n; i++) {
-            System.out.print("Enter the candi " + i + " ");
-            candi[i] = in.nextInt();
-        }
 
-        int[] age = new int[n];
 
-        for (int i = 0; i < n; i++) {
-            System.out.print("Enter the age " + i + " ");
-            age[i] = in.nextInt();
-        }
 
-        int ans = findElectionWinner(candi, age);
-        System.out.println(ans);
-        in.close();
+
+
+
+
+
+
+
+
+     private static int findElectionWinner2(int[] candi, int[] age) {
+
+
+        
+        return 0;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
