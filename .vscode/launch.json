@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayFilter",
+            "request": "launch",
+            "mainClass": "accenture.ArrayFilter",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "VoteWinner",
             "request": "launch",
             "mainClass": "accenture.VoteWinner",
