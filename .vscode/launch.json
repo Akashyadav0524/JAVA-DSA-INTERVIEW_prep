@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CandyStore",
+            "request": "launch",
+            "mainClass": "accenture.CandyStore",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "SumOfCircularPrime",
             "request": "launch",
             "mainClass": "accenture.SumOfCircularPrime",
