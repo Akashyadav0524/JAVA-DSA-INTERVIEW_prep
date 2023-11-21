@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class ArrayInput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-         Scanner sc = new Scanner(System.in);
+         
         System.out.println(" ");
         System.out.print("Enter the elements of the array separated by space: ");
         String input = sc.nextLine();
