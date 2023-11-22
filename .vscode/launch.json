@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxReturn",
+            "request": "launch",
+            "mainClass": "accenture.MaxReturn",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "GoodInteger",
             "request": "launch",
             "mainClass": "accenture.GoodInteger",
