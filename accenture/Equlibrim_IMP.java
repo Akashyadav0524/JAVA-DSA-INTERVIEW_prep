@@ -4,7 +4,7 @@ package accenture;
 
 import java.util.Scanner;
 
-public class Equlibrim {
+public class Equlibrim_IMP {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -27,15 +27,17 @@ public class Equlibrim {
         int leftSum=0;
        
         for (int i = 0; i < arr.length; ++i) {
-           sum+=arr[i];
+           sum=sum+arr[i];
         }
 
-        for (int i = 0; i < arr.length; ++i) {
-           sum-=arr[i];
-           if(leftSum==sum)
-            return i;
-           
-           leftSum+=arr[i];
+        for (int i = 0; i <arr.length; ++i) {
+           sum=sum-arr[i];
+
+           if(leftSum==sum){
+            return i+1;
+           }
+
+           leftSum=leftSum+arr[i];
                 
         }
         return -1;
