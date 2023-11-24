@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortAndReflect",
+            "request": "launch",
+            "mainClass": "codevita.SortAndReflect",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "MangoDistribution",
+            "request": "launch",
+            "mainClass": "accenture.MangoDistribution",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "MaxReturn",
             "request": "launch",
             "mainClass": "accenture.MaxReturn",
