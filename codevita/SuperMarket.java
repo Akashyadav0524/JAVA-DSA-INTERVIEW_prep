@@ -37,6 +37,7 @@ public class SuperMarket {
 
         // Print the result
         System.out.println(maxBagsSold);
+        scanner.close();
     }
 
     private static int getMaxBagsSold(Customer[] customers, RiceBag[] riceBags) {

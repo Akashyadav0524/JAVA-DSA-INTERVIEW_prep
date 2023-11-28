@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "candiesStrore",
+            "request": "launch",
+            "mainClass": "accenture.candiesStrore",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "matrix",
             "request": "launch",
             "mainClass": "accenture.matrix",

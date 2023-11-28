@@ -20,5 +20,6 @@ public class Primeno {
         }
         else
          System.out.println(+n +" is not prime");
+         in.close();
     }
 }
