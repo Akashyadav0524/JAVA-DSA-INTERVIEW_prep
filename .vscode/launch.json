@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmstrongNo",
+            "request": "launch",
+            "mainClass": "accenture.ArmstrongNo",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "PrintNumberFrmString",
             "request": "launch",
             "mainClass": "accenture.PrintNumberFrmString",
