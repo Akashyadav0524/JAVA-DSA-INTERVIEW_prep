@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "accenture.matrix",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "Primeno",
             "request": "launch",
             "mainClass": "accenture.Primeno",
