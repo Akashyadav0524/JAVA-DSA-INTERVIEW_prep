@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumInRange",
+            "request": "launch",
+            "mainClass": "accenture.sumInRange",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarraySum",
+            "request": "launch",
+            "mainClass": "accenture.MaxSubarraySum",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "accenture.ButterflyPattern",
+            "projectName": "JAVA+DSA+INTERVIEW_prep_f4b97e7f"
+        },
+        {
+            "type": "java",
             "name": "perfectString",
             "request": "launch",
             "mainClass": "accenture.perfectString",
