@@ -6,21 +6,20 @@ import java.util.Scanner;
 public class MangoDistribution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int M=in.nextInt();
-        int P =in.nextInt();
-        BigInteger ans = NoWaysDist(M,P);
+        int M = in.nextInt(); // Number of mangoes
+        int P = in.nextInt(); // Number of persons
+        BigInteger ans = NoWaysDist(M, P); // Call the function to calculate the number of ways
         System.out.println(ans);
         in.close();
-
     }
 
+    // Function to calculate the number of ways to distribute mangoes among persons
     private static BigInteger NoWaysDist(int m, int p) {
-        
         BigInteger result = binomialCoefficient(m, p);
         return result;
-        
-        
     }
+
+    // Function to calculate the factorial of a number
     private static BigInteger factorial(int num) {
         if (num == 0 || num == 1) {
             return BigInteger.ONE;
@@ -29,10 +28,11 @@ public class MangoDistribution {
         }
     }
 
-    private static BigInteger binomialCoefficient(int n, int k) {
-        BigInteger numerator = factorial(n + k - 1);
-        BigInteger denominator = factorial(n).multiply(factorial(k - 1));
-        
+    // Function to calculate the binomial coefficient
+    private static BigInteger binomialCoefficient(int m, int p) {
+        BigInteger numerator = factorial(m + p - 1);
+        BigInteger denominator = factorial(m).multiply(factorial(p - 1));
+
         return numerator.divide(denominator);
     }
 }
