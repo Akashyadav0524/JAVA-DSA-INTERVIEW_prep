@@ -36,3 +36,18 @@ public class MangoDistribution {
         return numerator.divide(denominator);
     }
 }
+
+ private static BigInteger binomialCoefficient(int m, int p) {
+    BigInteger n = factorial(m+p-1);
+    BigInteger d = factorial(m).multiply(factorial(p-1));
+    return n.divide(d);
+ }
+
+ private static BigInteger factorial(int num){
+    if(n==0 || n==1){
+        return BigInteger.ONE;
+    }
+    else{
+        return BigInteger.value(num).multiply(factorial(num-1));
+    }
+ }
