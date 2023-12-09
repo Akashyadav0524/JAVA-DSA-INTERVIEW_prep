@@ -12,6 +12,7 @@ public class ArmstrongNo {
         if(isArmstrong(input)==false){
             System.out.println("Not a an Armstrong Number");
         }
+        in.close();
         
     }
 
